@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahe</h1>
-<h3 align="center">A passionate Software Developer who loves building things that live on the internet</h3>
+<h3 align="center">Mobile Developer building smooth, delightful apps for Android & iOS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Writing+clean+code+one+commit+at+a+time;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+building;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+for+Android+%F0%9F%A4%96;Building+for+iOS+%F0%9F%8D%8E;Turning+coffee+into+code+%E2%98%95;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **exciting new projects** *(swap this in)*
-- 🌱 Currently learning **new tech and tools** *(swap this in)*
-- 👯 Looking to collaborate on **open source / interesting builds**
-- 💬 Ask me about **web dev, JavaScript, and problem solving**
+- 🔭 Currently sharpening my mobile development skills
+- 🌱 Currently exploring new tools across the Android & iOS ecosystem
+- 👯 Looking to collaborate on **open source / interesting mobile builds**
+- 💬 Ask me about **Flutter, Kotlin, Swift, or React Native**
 - ⚡ Fun fact: **I debug better at 2 AM than at 2 PM**
 
 ---
@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,vscode,figma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,androidstudio,firebase,git,github,vscode" />
 </p>
 
 > Edit the icon list above (comma-separated) to match your real stack — see [skillicons.dev](https://skillicons.dev) for the full list of supported icons.
@@ -56,23 +56,16 @@
   <img src="https://raw.githubusercontent.com/Master-mahe/Master-mahe/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ The snake animation requires a one-time GitHub Action setup — see the note at the bottom of this message for instructions.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTRhYXdrM2drN29sajMzeWQxOTNkYW1kcHVianVnOWZsdWQyMXRrdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif"width="400" />
-</p>
+> ⚠️ The snake animation requires a one-time GitHub Action setup — ask me and I'll walk you through it whenever you're ready.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahendrakumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/livingwerewolf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:livingwerewolf@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
