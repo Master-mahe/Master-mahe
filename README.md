@@ -5,7 +5,7 @@
 <h3 align="left">Mobile Developer building smooth, delightful apps for Android & iOS</h3>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=false&vCenter=true&width=500&lines=Building+for+Android+%F0%9F%A4%96;Building+for+iOS+%F0%9F%8D%8E;Turning+coffee+into+code+%E2%98%95;Open+to+collaborate+on+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=false&vCenter=true&width=500&lines=Building+for+Android;Building+for+iOS;Turning+coffee+into+code;Open+to+collaborate" alt="Typing SVG" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-mahe&label=Profile%20views&color=0e75b6&style=flat" alt="master-mahe" /> </p>
@@ -20,9 +20,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Learning mobile dev**
-- 🌱 I’m currently learning **Flutter, Kotlin, Swift**
-- 👯 I’m looking to collaborate on **Open source mobile projects**
+- 🔭 I'm currently working on **Learning mobile dev**
+- 🌱 I'm currently learning **Flutter, Kotlin, Swift**
+- 👯 I'm looking to collaborate on **Open source mobile projects**
 - 💬 Ask me about **Flutter, Kotlin, Swift, React Native**
 - 📫 How to reach me **livingwerewolf@icloud.com**
 - ⚡ Fun fact **I debug better at 2 AM than at 2 PM**
@@ -56,11 +56,17 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-mahe&show_icons=true&locale=en&layout=compact" alt="master-mahe" /></p>
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=master-mahe&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="master-mahe stats"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-mahe&show_icons=true&locale=en" alt="master-mahe" /></p>
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-mahe&layout=compact&locale=en&theme=tokyonight&cache_seconds=1800" alt="master-mahe top languages"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-mahe&" alt="master-mahe" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-mahe&theme=tokyonight" alt="master-mahe streak"/>
+</p>
 
 ---
 
