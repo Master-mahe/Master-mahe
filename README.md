@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm mahi</h1>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2ptbGF3M2pzZ3dwcDAxdjV6ZG1pN2Jjbmd2dmJ4NDF1MmJlOTNlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wZM2P9l0PWR4dzhZxZ/giphy.gif">
 
 <h3 align="left">Mobile Developer building smooth, delightful apps for Android & iOS</h3>
 
