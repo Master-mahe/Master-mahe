@@ -55,55 +55,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=master-mahe&theme=github_dark" alt="profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=master-mahe&theme=tokyonight" alt="profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=master-mahe&theme=github_dark" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=master-mahe&theme=github_dark" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=master-mahe&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=master-mahe&theme=tokyonight" alt="most commit language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=master-mahe&theme=github_dark" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=master-mahe&theme=github_dark&utcOffset=5.5" alt="productive time"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Master-mahe/Master-mahe/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer" />
-</p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ⭐</i></p><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=master-mahe&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="master-mahe stats"/>
-</p>
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-mahe&layout=compact&locale=en&theme=tokyonight&cache_seconds=1800" alt="master-mahe top languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-mahe&theme=tokyonight" alt="master-mahe streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=master-mahe&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=master-mahe&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 </p>
 
 ---
