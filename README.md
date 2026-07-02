@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=false&vCenter=true&width=500&lines=Building+for+Android;Building+for+iOS;Turning+coffee+into+code;Open+to+collaborate" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=master-mahe&label=Profile%20views&color=0e75b6&style=flat" alt="master-mahe" /> </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/master-mahe/count.svg" alt="profile views" />
+</p>
 
 <p align="left">
   <a href="https://twitter.com/alphawolfmahi" target="blank"><img src="https://img.shields.io/twitter/follow/alphawolfmahi?logo=twitter&style=for-the-badge" alt="alphawolfmahi" /></a>
